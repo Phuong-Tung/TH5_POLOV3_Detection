@@ -10,3 +10,6 @@ choose YOLOv3-320 click 'cfg' and 'weights' to download 2 file
 choose YOLOv3-tiny clock 'cfg' and 'weights' to download 2 file
 add to Project file on Pychar back and RUN
 Finally copy code and run. Good luck!!
+
+
+FOR EZ :v click my Drive to download full: https://drive.google.com/drive/folders/11y-EIx71CsTVj2MYb2uUtZvuou-spXKA?usp=sharing
