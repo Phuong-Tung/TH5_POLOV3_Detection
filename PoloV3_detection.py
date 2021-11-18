@@ -6,7 +6,7 @@ whT = 320
 
 confThershold = 0.5
 nmsThreshold = 0.3
-classesFile = 'coco.names'
+classesFile = 'coco_vietnam.names'
 classNames = []
 with open(classesFile,'rt') as f:
     classNames = f.read().rstrip('\n').split('\n')
